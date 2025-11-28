@@ -33,7 +33,7 @@ This project utilized a **Mixed Methods** approach, where two distinct datasets 
 ![test](/output1.png)
 
 ---
-
+![test](/output2.png)
 
 1. **To promote interfaith tolerance, students desire more interfaith interaction.**  
 2. **Furthermore, students aspire to unique interfaith activities, such as religious comedy.**
