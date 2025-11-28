@@ -30,6 +30,10 @@ This project utilized a **Mixed Methods** approach, where two distinct datasets 
 3.  **Topic Modeling:** **Latent Dirichlet Allocation (LDA)** was executed to objectively group thousands of words into **5 core topics** of student aspiration.
 
 ## 4. Key Findings (The Results)
+![test](/output1.png)
 
-**To promote interfaith tolerance, students desire more interfaith interaction.
-**Furthermore, students aspire to unique interfaith activities, such as religious comedy.
+---
+
+
+1. **To promote interfaith tolerance, students desire more interfaith interaction.**  
+2. **Furthermore, students aspire to unique interfaith activities, such as religious comedy.**
