@@ -1,4 +1,4 @@
-# Computational Analysis of Religious Inclusivity on Campus ( Will refine this readne file later for better context & will outline my thought process here )
+# Computational Analysis of Religious Inclusivity on Campus ( Will refine this readme file later for better context & will outline my thought process here )
 
 ---
 
