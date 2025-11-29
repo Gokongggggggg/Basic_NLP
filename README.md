@@ -37,7 +37,7 @@ The computational analysis revealed a shift in student needs from mere "availabi
 ## 📂 Repository Contents
 * `CB_Agama.ipynb`: The main notebook containing the NLP pipeline.
 * `form_response.csv`: The raw dataset (anonymized) used for analysis.
-* `Research_Paper.pdf`: The full research paper detailing background, methodology, and conclusion.
+* `Kelompok1_CB_Agama_LA01.pdf`: The full research paper detailing background, methodology, and conclusion.
 
 ---
 *This project demonstrates the application of Data Science techniques to solve real-world social problems.*
